@@ -1,5 +1,5 @@
 {
-  "name": "companyprofile-mvc-mongo",
+  "name": "companyprofile-mvc-starter",
   "version": "1.0.0",
   "description": "Company profile structured as MVC with MongoDB in the model layer",
   "main": "server.js",
