@@ -1,4 +1,4 @@
 export const config = {
     "model-file": "data/model.json",
-    "server-port": 8080
+    "server-port": 300
 }
